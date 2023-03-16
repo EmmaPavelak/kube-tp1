@@ -20,7 +20,7 @@ kubectl get pods
 
 ##  Connexion entre plusieurs Pods
 
-### A l’image du TP 1 sur Docker (question 7 et 8), héberger un Pod phpmyadmin et mysql, cette fois-ci en utilisant minikube
+### A l’image du TP 1 sur Docker (question 7 et 8), héberger un Pod phpmyadmin et mysql, cette fois-ci en utilisant kind
 
 ### Créer un service associé au Pod mysql
 
